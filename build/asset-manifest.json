@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Axies-Pochos/static/css/main.8b2a89ae.chunk.css",
+    "main.js": "/Axies-Pochos/static/js/main.6d83519a.chunk.js",
+    "main.js.map": "/Axies-Pochos/static/js/main.6d83519a.chunk.js.map",
+    "runtime-main.js": "/Axies-Pochos/static/js/runtime-main.9cf54c01.js",
+    "runtime-main.js.map": "/Axies-Pochos/static/js/runtime-main.9cf54c01.js.map",
+    "static/js/2.6c5eb575.chunk.js": "/Axies-Pochos/static/js/2.6c5eb575.chunk.js",
+    "static/js/2.6c5eb575.chunk.js.map": "/Axies-Pochos/static/js/2.6c5eb575.chunk.js.map",
+    "static/js/3.57dd6961.chunk.js": "/Axies-Pochos/static/js/3.57dd6961.chunk.js",
+    "static/js/3.57dd6961.chunk.js.map": "/Axies-Pochos/static/js/3.57dd6961.chunk.js.map",
+    "index.html": "/Axies-Pochos/index.html",
+    "static/css/main.8b2a89ae.chunk.css.map": "/Axies-Pochos/static/css/main.8b2a89ae.chunk.css.map",
+    "static/js/2.6c5eb575.chunk.js.LICENSE.txt": "/Axies-Pochos/static/js/2.6c5eb575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cf54c01.js",
+    "static/js/2.6c5eb575.chunk.js",
+    "static/css/main.8b2a89ae.chunk.css",
+    "static/js/main.6d83519a.chunk.js"
+  ]
+}
